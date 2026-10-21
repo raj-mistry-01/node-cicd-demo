@@ -1,0 +1,11 @@
+
+{
+  "name": "node-cicd-demo",
+  "version": "1.0.0",
+  "description": "Node.js CI/CD using GitHub Actions, Docker and Render",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "node --test"
+  }
+}
